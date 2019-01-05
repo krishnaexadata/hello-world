@@ -1,3 +1,3 @@
 # hello-world
 test repository
-this is a test repository for github
+this is a test repository
